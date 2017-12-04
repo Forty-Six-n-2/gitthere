@@ -12,8 +12,10 @@ Just to learn git and play around with features.
     * Understand a bare repo
     * Understand branches
     
-    Graph of git process logic
-    ```sh
+
+Graph of git process logic
+
+```sh
     |---------------commit->--------->>|
     |--add->------->>|----commit->--->>|
     |----------------|-----------------|------push->-->>|
@@ -24,4 +26,4 @@ Just to learn git and play around with features.
     |<<--<-checkout--|
     |------------diff HEAD-------------|
     |-----diff-------|
-    ```
+```
