@@ -8,3 +8,5 @@ Just to learn git and play around with features.
     * Use SSH for convenience
     * Understand commits
     * Understand history
+    * Test SSH setup
+    
