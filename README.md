@@ -9,4 +9,5 @@ Just to learn git and play around with features.
     * Understand commits
     * Understand history
     * Test SSH setup
+    * Understand a bare repo
     
